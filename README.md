@@ -2,7 +2,7 @@
 
 AI course project at FAST-NUCES, Lahore. We detect potholes in dashcam images and video with YOLOv8, so road authorities can see which roads need repair first.
 
-**Team:** Muhammad Talha, Ramsha Khalid, Zuhar Faisal, Kashif Abbas
+**Team:** Ramsha Khalid, Zuhar Faisal,Muhammad Talha, Kashif Abbas
 
 ## Dataset
 
