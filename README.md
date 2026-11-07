@@ -11,7 +11,6 @@ AI course project at FAST-NUCES, Lahore. We detect potholes in dashcam images an
 ## Files
 
 - `F26-1.ipynb`: data preparation notebook (Google Colab)
-- `F26-1.pdf`: Deliverable 2 report
 
 ## Running the notebook
 
